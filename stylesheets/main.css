@@ -1,0 +1,39 @@
+.square {
+  height: 100px;
+  width: 100px;
+  background-color: skyblue;
+}
+
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: skyblue;
+}
+
+.important {
+  font-weight: bold;
+  font-size: 200%;
+}
+
+.blue {
+  color: skyblue;
+}
+
+.fadeDivOne {
+  width: 100px;
+  height: 100px;
+  background-color: steelblue;
+  display: none;
+}
+
+.slideDivTwo {
+  padding: 50px;
+  display: none;
+}
+
+.animateDiv {
+  background-color: skyblue;
+  height: 100px;
+  width: 100px;
+}
