@@ -1,8 +1,8 @@
-# JQuery learning
+# Learning jQuery
 
 This repository contains all exercises and examples given in Udemy "Complete JavaScript development Bootcamp 2020 with projects" by Mohammed Khan.
 
-### Course content:
+### jQuery course content:
 
 - Introduction to JQuery
 - How to embed jQuery and detecting onclicks
